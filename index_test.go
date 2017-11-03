@@ -7,6 +7,7 @@ import (
 	"testing"
 )
 
+//問３
 func Testancestor(t *testing.T) {
 	fmt.Println("カテゴリ名を入力してください")
 
